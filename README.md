@@ -8,7 +8,8 @@ This project is the implementation of building a simple RAG
 
 **Environment**: Kaggle Notebook
 
-Demo: ![img.png](img.png)
+Demo: _I did import 4 papers related to "Contrastive Decoding" an tested the model with basic input questions._
+![img.png](img.png)
 
 
 > I do recommend users to try to use Ollama instead of Groq and run on the local machine,
